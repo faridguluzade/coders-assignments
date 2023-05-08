@@ -97,5 +97,3 @@ const findFirstNonRepeatedChar = function (str) {
 //#endregion
 
 //---------------------------------------------------------
-
-//#region 1. Write a function that checks if a given number is prime. Optimize the loop to stop checking once the number is found to be divisible by any other number.
